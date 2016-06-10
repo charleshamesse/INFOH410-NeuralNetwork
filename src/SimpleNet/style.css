@@ -1,0 +1,7 @@
+.chart-series-line {
+    -fx-stroke-width: .5px;
+}
+.chart-line-symbol {
+    -fx-background-radius: 2px;
+    -fx-padding: 2px;
+}
